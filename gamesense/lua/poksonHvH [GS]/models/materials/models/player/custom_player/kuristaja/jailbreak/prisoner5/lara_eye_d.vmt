@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/player/kuristaja/jailbreak/prisoner5/lara_eye_d"
+	"$bumpmap" "models/player/kuristaja/jailbreak/prisoner5/lara_eye_normal"
+
+
+	"$phong" 			"1"
+	"$phongboost"			"50"
+	"$phongexponent"			"20"
+	"$phongfresnelranges"		"[.05 .1 .2]"
+
+}

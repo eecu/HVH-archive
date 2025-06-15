@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	// TRANSLUCENT
+	$basetexture "models\player\kuristaja\l4d2\ellis\mechanic_hair_color"
+	$halflambert 0
+	$translucent 1
+}

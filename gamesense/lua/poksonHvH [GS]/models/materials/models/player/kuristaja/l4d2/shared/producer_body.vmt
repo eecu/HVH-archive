@@ -1,0 +1,12 @@
+vertexlitgeneric
+{
+	$baseTexture "models\player\kuristaja\l4d2\shared\producer_body_color"
+	$bumpmap "models\player\kuristaja\l4d2\shared\producer_body_normal"
+	$phong 1
+	$phongboost "2.5"
+	$phongexponent 10
+	$phongtint "[.85 .85 1]"
+	$halflambert 0
+	$phongfresnelranges "[.3 .65 30]"
+
+}

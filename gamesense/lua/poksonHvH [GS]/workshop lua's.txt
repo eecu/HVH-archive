@@ -1,0 +1,15 @@
+for all lua to work properly, its recommended to have all lua libraries.
+https://gamesense.pub/forums/viewtopic.php?id=22173
+https://gamesense.pub/forums/viewtopic.php?id=5179
+https://gamesense.pub/forums/viewtopic.php?id=18810
+https://gamesense.pub/forums/viewtopic.php?id=34737
+https://gamesense.pub/forums/viewtopic.php?id=34672
+https://gamesense.pub/forums/viewtopic.php?id=4888
+https://gamesense.pub/forums/viewtopic.php?id=24377
+https://gamesense.pub/forums/viewtopic.php?id=34355
+https://gamesense.pub/forums/viewtopic.php?id=34531
+https://gamesense.pub/forums/viewtopic.php?id=30646
+https://gamesense.pub/forums/viewtopic.php?id=41937
+https://gamesense.pub/forums/viewtopic.php?id=12735
+https://gamesense.pub/forums/viewtopic.php?id=27115
+
